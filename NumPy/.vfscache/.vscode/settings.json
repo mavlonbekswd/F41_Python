@@ -1,0 +1,20 @@
+{
+  "python.analysis.stubPath": "/Users/user/F41_Python/NumPy/.stubs/pyspark34",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingModuleSource": "none"
+  },
+  "synapse.workspaceFilter": {
+    "workspaceIds": [
+      "e364dd74-c3c9-4f4f-a546-c9f82de1e062"
+    ]
+  },
+  "chat.agentSkillsLocations": {
+    ".agents/skills": true,
+    ".github/skills": true,
+    ".claude/skills": true,
+    "~/.agents/skills": true,
+    "~/.copilot/skills": true,
+    "~/.claude/skills": true,
+    "~/.vscode/extensions/synapsevscode.synapse-1.23.0/copilot/skills": true
+  }
+}
