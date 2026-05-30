@@ -1,6 +1,0 @@
-{
-  "python.analysis.stubPath": "/Users/user/F41_Python/NumPy/.stubs/pyspark34",
-  "python.analysis.diagnosticSeverityOverrides": {
-    "reportMissingModuleSource": "none"
-  }
-}

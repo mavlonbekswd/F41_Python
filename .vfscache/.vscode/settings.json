@@ -1,0 +1,6 @@
+{
+  "python.analysis.stubPath": "/Users/user/F41_Python/.stubs/pyspark34",
+  "python.analysis.diagnosticSeverityOverrides": {
+    "reportMissingModuleSource": "none"
+  }
+}
